@@ -1,7 +1,0 @@
-apple Apple
-Orange ORANGE
-grapes
-guava
-banana
-BANANA
-
